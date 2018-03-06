@@ -1,0 +1,11 @@
+C:\Users\Toshiba\source\repos\Sinema App\Sinema App\bin\Debug\Sinema App.exe.config
+C:\Users\Toshiba\source\repos\Sinema App\Sinema App\bin\Debug\Sinema App.exe
+C:\Users\Toshiba\source\repos\Sinema App\Sinema App\bin\Debug\Sinema App.pdb
+C:\Users\Toshiba\source\repos\Sinema App\Sinema App\obj\Debug\Sinema App.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\source\repos\Sinema App\Sinema App\obj\Debug\Sinema_App.Cinema.resources
+C:\Users\Toshiba\source\repos\Sinema App\Sinema App\obj\Debug\Sinema_App.Properties.Resources.resources
+C:\Users\Toshiba\source\repos\Sinema App\Sinema App\obj\Debug\Sinema App.csproj.GenerateResource.Cache
+C:\Users\Toshiba\source\repos\Sinema App\Sinema App\obj\Debug\Sinema App.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\Sinema App\Sinema App\obj\Debug\Sinema App.exe
+C:\Users\Toshiba\source\repos\Sinema App\Sinema App\obj\Debug\Sinema App.pdb
+C:\Users\Toshiba\source\repos\Sinema App\Sinema App\obj\Debug\Sinema_App.Rezerv.resources
