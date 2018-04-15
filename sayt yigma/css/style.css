@@ -1,0 +1,319 @@
+#About{ 
+    width: 100%;
+    height: 650px;
+    background-image: url(../image/about-img.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    position: relative;
+    background-color: #eef3f6;
+}
+#About .container .ACT{
+    margin-top: 100px;
+    position: absolute;
+}
+#About .container .ACT h1{
+    font-size: 48px;
+    color: #002e5b;
+    font-family: 'Roboto Condensed', sans-serif;    
+}
+#About .container .ACP{
+    width: 50%;
+    margin-top: 250px;
+    position: absolute;
+    
+}
+#About .container .ACP p{
+    margin-top: 15px;
+    text-align: justify;
+    color: #7D8AA2;
+}
+#OurService{
+    width: 100%;    
+    height: 800px;
+
+}
+.OST{
+    width: 55%;
+    height: 80px;
+    margin:55px 120px;
+    position: absolute;
+}
+.OST h1{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #002e5b;  
+    margin-top: 15px;  
+}
+.OST p{
+    text-align: center;
+    margin: 20px;
+    color: #909BB0;
+}
+.OST hr {
+    border-color: #ffdd00;
+    border-width: 3px;
+    width: 80px;
+}
+#OurService .Serdiv{
+    border-radius: 8px;
+    margin-top: 220px;
+    margin-left: 80px;
+    width: 330px;
+    height: 210px;
+    background-color: #EEF3F6;
+    display: inline-block;
+}
+#OurService .Serdiv h1{
+    margin-left: 60px;
+    margin-top: 50px;
+    color: #002e5b;
+    font-size:25px;   
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#OurService .Serdiv p{
+    margin-left: 60px;
+    margin-top: 10px;
+    color: #909BB0;
+}
+#OurService .Serdiv01{
+    border-radius: 8px;
+    margin-top: 60px;
+    margin-left: 80px;
+    width: 330px;
+    height: 210px;
+    background-color:#EEF3F6;
+    display: inline-block;
+}
+#OurService .Serdiv01 h1{
+    margin-left: 60px;
+    margin-top: 50px;
+    color: #002e5b;
+    font-size:25px;   
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#OurService .Serdiv01 p{
+    margin-left: 60px;
+    margin-top: 10px;
+    color: #909BB0;
+}
+#OurService  .ymr{
+    width: 100px;
+    border-radius: 50%;
+    background-color: #ffdd00;
+    height: 100px;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 255px;
+}
+#OurService  .ymr1{
+    width: 100px;
+    border-radius: 50%;
+    background-color: #ffdd00;
+    height: 100px;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 100px;
+}
+#OurService  .ymr2{
+    width: 100px;
+    border-radius: 50%;
+    background-color: #ffdd00;
+    height: 100px;
+    position: absolute;
+    margin-left: -55px;
+    margin-top: 159px;
+}
+#OurService  .ymr3{
+    width: 100px;
+    border-radius: 50%;
+    background-color: #ffdd00;
+    height: 100px;
+    position: absolute;
+    margin-left: 435px;
+    margin-top: 255px;
+}
+#OurService  .ymr4{
+    width: 100px;
+    border-radius: 50%;
+    background-color: #ffdd00;
+    height: 100px;
+    position: absolute;
+    margin-left: 850px;
+    margin-top: 100px;
+}
+#OurService  .ymr5{
+    width: 100px;
+    border-radius: 50%;
+    background-color: #ffdd00;
+    height: 100px;
+    position: absolute;
+    margin-left: 850px;
+    margin-top: 255px;
+}
+#OurService .ymr:hover{
+    background-color: #002E5B;
+   background-image: color-#ffdd00;
+}
+#OurService .ymr1:hover{
+    background-color: #002E5B;
+   background-image: color-#ffdd00;
+}
+#OurService .ymr2:hover{
+    background-color: #002E5B;
+   background-image: color-#ffdd00;
+}
+#OurService .ymr3:hover{
+    background-color: #002E5B;
+   background-image: color-#ffdd00;
+}
+#OurService .ymr4:hover{
+    background-color: #002E5B;
+   background-image: color-#ffdd00;
+}
+#OurService .ymr5:hover{
+    background-color: #002E5B;
+   background-image: color-#ffdd00;
+}
+#OurService .Serdiv:hover{
+    background-color: #002E5B;
+}
+#OurService .Serdiv01:hover{
+    background-color: #002E5B;
+}
+#OurService .Serdiv01:hover h1{
+    color: #FCDB01;
+}
+#OurService .Serdiv:hover h1{
+    color: #FCDB01;
+}
+#Counter{
+    width: 100%;
+    height: 280px;
+    background-image: url(../image/count.jpg);
+    background-size: cover;
+}
+#Counter .col-3{
+    height: 100px;
+    margin-top: 80px;
+}
+#Counter .col-3 h2,h3{
+    color: white;
+   text-align: center;
+   font-family: 'Oswald', sans-serif;
+}
+#Counter .col-3 h2{
+    font-size: 40px;
+}
+#Counter .col-3 h3{
+    margin-top: 25px;
+    
+}
+#OurTeam{
+    width: 100%;
+    height: 600px;;
+    background-color: white;
+}
+.OTT{
+    width: 55%;
+    height: 80px;
+    margin:55px 120px;
+    position: absolute;
+}
+.OTT h1{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #002e5b;  
+    margin-top: 15px;  
+}
+.OTT p{
+    text-align: center;
+    margin: 20px;
+    color: #909BB0;
+}
+.OTT hr {
+    border-color: #ffdd00;
+    border-width: 3px;
+    width: 80px;
+}
+#OurTeam .OTSS{
+    width: 90%;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 90px;
+    
+}
+#OurTeam .OTSS  .TeamSO{
+    display: inline-block;
+    margin-left: 20px;
+    background: #fff;
+    border: 1px solid #eef3f6;
+    padding-bottom: 10px;
+}
+.Otsh1{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;  
+    font-size: 20px;
+    color: #002e5b;
+
+}
+.Otsh2{
+    margin-top: 10px;
+    text-align: center;
+    color: #909BB0;
+}
+.TeamSO:hover{
+    -webkit-transition: all 0.2s ease 0s;
+    transition: all 0.2s ease 0s;
+    background: #ffdd00;
+}
+#News{
+    width: 100%;
+    height: 900px;
+    position: relative;
+    background-color: #EEF3F6;
+}
+
+.NewsFeed{
+    width: 90%;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 245px;
+}
+
+.NFS{
+    float: left;
+    margin-left: 30px;
+    background-color: white;
+    padding-bottom: 25px;
+}
+.NFS h2{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #002e5b;
+    font-size: 20px;
+    margin-left: 12px;  
+    margin-top: 15px;
+}
+.NFS h4{
+    color: white;
+    color: #002e5b;
+    font-size: 18px;
+    margin-left: 12px;  
+    margin-top: 10px;
+}
+.NFSBTN{
+    background-color: #002e5b;  
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    text-align: center;
+    display:block;
+    margin-top: 50px;
+    margin-left: 12px;
+}
+.NFSBTN:hover{
+    background-color: #FCDB01;
+    color: black;
+    transition: all 0.5s ease 0s;
+}
