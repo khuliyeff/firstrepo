@@ -1,0 +1,38 @@
+.div055{
+overflow: hidden;
+width: 100%;
+
+}
+.div055>div:first-child{
+    position:relative;
+    transition:all .3s ease;
+}
+.btn01{
+    width: 20px;
+    height: 20px;
+    background-color: gray;
+    position: absolute;
+    margin-left: 700px;
+    border: none;
+    border-radius: 100%; 
+    cursor: pointer;
+    display: inline-block;
+    
+}
+.btn02:hover:hover{
+    background-color: gold;
+}
+.btn02{
+    width: 20px;
+    height: 20px;
+    background-color: gray;
+    position: absolute;
+    margin-left: 670px;
+    border: none;
+    border-radius: 100%; 
+    cursor: pointer;
+    
+}
+.btn01:hover{
+    background: gold;
+}
